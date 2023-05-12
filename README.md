@@ -18,7 +18,6 @@ https://github.com/Thanushan0207/Cloud-Dividend-Watchlist/assets/131554091/0c938
 
 Pictures:
 
-<img src="https://github.com/Thanushan0207/Cloud-Dividend-Watchlist/assets/131554091/ad6ba8ff-b281-4919-8d64-edacf582b262.png">
 <img src="https://github.com/Thanushan0207/Cloud-Dividend-Watchlist/assets/131554091/e79d8d0d-a417-48c3-bffa-816f7f3887aa">
 <img src="https://github.com/Thanushan0207/Cloud-Dividend-Watchlist/assets/131554091/820e56a6-1487-42c4-8dba-1b4c0c9d4194.png">
 
