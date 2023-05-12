@@ -11,6 +11,7 @@ Steps:
 7. In Google Cloud go into the "APIs & Services" and click "Enable APIS AND SERVICES", then search and enable "Google Drive API" and "Google Sheets API".
 8. Make sure you open the python file and install the necessary libraries to make this script run.
 9. Now you are all set and ready to run the code!!
+**Remember the free tier on Google Cloud has limits you can read about it here: https://developers.google.com/analytics/devguides/reporting/data/v1/quotas**
 
 Video of Code in Action:
 
